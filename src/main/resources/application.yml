@@ -1,6 +1,6 @@
 spring:
   application:
     name: countries-backend
-  profiles:
-    active: dev
+#  profiles:
+#    active: dev
 
