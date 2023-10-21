@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: countries-backend
+  profiles:
+    active: dev
+
